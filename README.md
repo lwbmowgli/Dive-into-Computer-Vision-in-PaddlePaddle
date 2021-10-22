@@ -1,4 +1,4 @@
-# Dive-into-Computer-Vision-in-PaddlePaddle2.0
+# Dive-into-Computer-Vision-in-PaddlePaddle
 Introduction of Computer Vision and Application with PaddlePaddle2.0.
 
 此项目为paddlepaddle2.0的实践集合，每个ipynb文件为一个独立项目。
